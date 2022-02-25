@@ -1,6 +1,6 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Felicity Zhang"
+image: "me.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -9,11 +9,13 @@ links:
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "xiaoyuanzhang@uchicago.edu"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a Ph.D. student in Public Policy. 
+
+I'm currently living in Chicago, IL.
+
+My soul food is fried chicken.
